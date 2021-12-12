@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=unredundant.unredundant)
 
-Hi 👋 I'm Ryan.  This is my GitHub profile.  It's just about my only profile at this point, so I try to keep it nice :) You can find stuff I'm working on in the pinned section.  I mostly work in Kotlin, I'm partial to Rust, and I'm a huge crypto nerd 🤓
+Hi 👋 I'm Ryan.  This is my GitHub profile.  It's just about my only profile at this point, so I try to keep it nice :) You can find stuff I'm working on in the pinned section.  I mostly work in Kotlin, I'm partial to Rust, and I'm a huge crypto nerd 🤓 
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -15,10 +15,10 @@ Hi 👋 I'm Ryan.  This is my GitHub profile.  It's just about my only profile a
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5607577/145716879-5e4f3c41-c52d-4a9e-9681-5ab8efbb8bca.gif" />
 
-**Talking about Personal Stuffs:**
+**More Info:**
 
 - 👨🏻‍💻 I’m currently working on a set of Kotlin code generation tools
-- 🚀 I’m currently learning NextJS to start my own blog
+- 🚀 I’m currently learning NextJS to build a personal website
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: rbweb@pm.me
 - 📜 [Resume](https://gist.github.com/unredundant/9b3cc9fc1b98913964614ae4431804ac)
