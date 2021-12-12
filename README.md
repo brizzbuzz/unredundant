@@ -4,10 +4,10 @@ Hi 👋 I'm Ryan.  This is my GitHub profile.  It's just about my only profile a
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="205em" align="center" src="https://github-readme-stats.vercel.app/api?username=unredundant&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=unredundant&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="205em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=unredundant&layout=compact" />
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=unredundant&layout=compact" />
   </a>
 <div>
 
