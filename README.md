@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=unredundant.unredundant)
-
 Hi 👋 I'm Ryan.  This is my GitHub profile.  It's just about my only profile at this point, so I try to keep it nice :) You can find stuff I'm working on in the pinned section.  I mostly work in Kotlin, I'm partial to Rust, and I'm a huge crypto nerd 🤓 
 
 <div>
