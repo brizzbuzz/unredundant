@@ -16,7 +16,7 @@ Hi 👋 I'm Ryan.  This is my GitHub profile.  It's just about my only profile a
 **More Info:**
 
 - 👨🏻‍💻 I’m currently working on a set of Kotlin code generation tools
-- 🚀 I’m currently learning NextJS to build a personal website
+- 🚀 I have a personal site https://unredundant.io
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: rbweb@pm.me
 - 📜 [Resume](https://gist.github.com/unredundant/9b3cc9fc1b98913964614ae4431804ac)
