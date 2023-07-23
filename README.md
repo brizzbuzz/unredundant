@@ -8,3 +8,4 @@ I don't do front end often, but when I do, it is for my personal site https://un
 
 - 📫 How to reach me: talktome@ryanbr.ink
 - 📜 [Resume](https://gist.github.com/unredundant/9b3cc9fc1b98913964614ae4431804ac)
+- 😨 I think I'm becoming a Nix fanboy
